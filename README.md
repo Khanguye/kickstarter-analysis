@@ -4,7 +4,7 @@ Performing analysis on Kickstarter data to uncover trends
 
 :file_folder: [Kichstarter Excel File](/data-1-1-3-StarterBook.xlsx)
 
-**Sheet Contents**
+**Contents**
 
 1. Kichstarter (Data)
 2. Subcategory-Play (refer data)
