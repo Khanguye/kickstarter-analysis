@@ -5,16 +5,16 @@ Performing analysis on Kickstarter data to uncover trends
 
 **Sheet Contents**
 
-1.Kichstarter (Data)
-2.Subcategory-Play (refer data)
-3.Outcomes Based on Goals (use 2)(COUNTIFS)(challenge: play subcatgory)
-4.Outcomes Based on Launch Date (challenge: theater category)
-5.Outcomes Parent Category
-6.Outcomes SubCategory
-7.Failed U.S. Kickstarters (refer data)
-8.Successful U.S. Kickstarters (refer data)
-9.Descriptive Statistics (use 7 and 8) (AVERAGE,MEDIAN,STDEV.P,QUARTILE.EXC)
-10.Edinburgh Research (VLOOKUP)
+1. Kichstarter (Data)
+2. Subcategory-Play (refer data)
+3. Outcomes Based on Goals (use 2)(COUNTIFS)(challenge: play subcatgory)
+4. Outcomes Based on Launch Date (challenge: theater category)
+5. Outcomes Parent Category
+6. Outcomes SubCategory
+7. Failed U.S. Kickstarters (refer data)
+8. Successful U.S. Kickstarters (refer data)
+9. Descriptive Statistics (use 7 and 8) (AVERAGE,MEDIAN,STDEV.P,QUARTILE.EXC)
+10. Edinburgh Research (VLOOKUP)
 
 ### Chalenge
 1.The theater category of Kickstarter projects were successful pledged or funded if they launched between May and June. The successful pledged projects were descreased between November and December. There were also a very high chance failed for the projects if they were launched between May to August.
