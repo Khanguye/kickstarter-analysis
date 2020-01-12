@@ -9,9 +9,9 @@ January 11,2020:
  5. Edinburgh Research
  ---
  ### Report Excel File
- [data-1-1-3-StarterBook] (./data-1-1-3-StarterBook.xlsx)
+ [data-1-1-3-StarterBook] (/blob/master/data-1-1-3-StarterBook.xlsx)
  ### A Sample Captured Graph
- [OutcomesBasedOnLaunchDate] (./OutcomesBasedOnLaunchDate.png)
+ [OutcomesBasedOnLaunchDate] (/blob/master/OutcomesBasedOnLaunchDate.png)
 
 Comment: Based on the analysis and the outcomes based on launch date, the campaign is recommended to launch during May and June
 becuase the successful funding rate is high.
