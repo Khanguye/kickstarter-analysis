@@ -21,7 +21,7 @@ Performing analysis on Kickstarter data to uncover trends
 
 1. Data analysis of the Category “Theater” based on date
 
-Data Limition: The Data were included funding campaigns from countries around the world from 2009 to 2017. The successfull pledged campaigns was not distrubuted evenly among regions and years. If we just focus on May and June the most sucessfull plegded numbers, we can see all countries and years data are not evenly distributes. United States and Great Britain are two most countries have successful pledged outcome.
+Limitation: The uneven distribution data of May and June when comparing the successful ledged from country to country. The most successful legdged data of May and June belongs to United States and Great Britain. This is very difficult to analyze the successful ledged campaigns for other countries because the data is very minimal for the countries out of United States and Great Britain.
 
 ![Outcomes Based on Region](/SuccessfulPledgedByRegionAndYear.png)
 
@@ -34,7 +34,7 @@ Conclusion: If you plan to run the funding campaigns in the theater categrory an
 How many other Kickstarter campaigns were able to do this as well? In this challenge, 
 you’ll conduct a data analysis to answer this question and determine whether the length of a campaign contributes to its ultimate success or failure.
 
-Data Limitation: The data analysis were included plays around the world. If we know where it plays, then we can get country data to do analysis.
+Limitation: Data is limited to countries in aggregate, and this prevents being able to analyze each country as a separate entity. In order to do so, we would need to know where in each country the data was collected from ie urban areas and regions
 
 ![OutcomesBasedonGoal SubCategory Play](/OutcomesBasedonGoal_SubCategory_Play.png)
 
